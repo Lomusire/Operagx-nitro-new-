@@ -13,6 +13,7 @@ Enjoy the efficiency and simplicity of the Opera Nitro Promotion Generator! part
 
 Note: You might need to adjust the headers and the sleep interval depending on your use case and the server's rate limit policies.
 
+
 #### Quick run in the cloud
 
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)]([https://replit.com/@RealOddPvP/OperaGX-Nitro-Generator?v=1](https://replit.com/@Lomusire/opera-new-gggpt4#main.py)https://replit.com/@Lomusire/opera-new-gggpt4#main.py)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/@Lomusire/opera-new-gggpt4?s=app)
