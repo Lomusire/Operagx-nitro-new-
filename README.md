@@ -35,3 +35,14 @@ This script is confirmed to be working as of 3 March 2024.
 ## 🌟 Quick Run in the Cloud
 
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/@Lomusire/opera-new-gggpt4?s=app)
+
+
+## Star History
+
+<a href="https://star-history.com/#Lomusire/Operagx-nitro-new-&Timeline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lomusire/Operagx-nitro-new-&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lomusire/Operagx-nitro-new-&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lomusire/Operagx-nitro-new-&type=Timeline" />
+  </picture>
+</a>
